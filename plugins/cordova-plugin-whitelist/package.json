@@ -1,0 +1,62 @@
+{
+  "_from": "cordova-plugin-whitelist@1.0.0",
+  "_id": "cordova-plugin-whitelist@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-juxM9EXaTUXE+g/cI5SbJNObazE=",
+  "_location": "/cordova-plugin-whitelist",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "cordova-plugin-whitelist@1.0.0",
+    "name": "cordova-plugin-whitelist",
+    "escapedName": "cordova-plugin-whitelist",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-whitelist/-/cordova-plugin-whitelist-1.0.0.tgz",
+  "_shasum": "8eec4cf445da4d45c4fa0fdc23949b24d39b6b31",
+  "_spec": "cordova-plugin-whitelist@1.0.0",
+  "_where": "/Users/joshuarouault/weather",
+  "author": {
+    "name": "Apache Software Foundation"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova Whitelist Plugin",
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">=4.0.0-dev"
+    },
+    {
+      "name": "cordova-ios",
+      "version": ">=4.0.0-dev"
+    }
+  ],
+  "keywords": [
+    "cordova",
+    "whitelist",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "Apache 2.0",
+  "name": "cordova-plugin-whitelist",
+  "repository": {
+    "type": "git",
+    "url": "https://git-wip-us.apache.org/repos/asf/cordova-plugin-whitelist.git"
+  },
+  "version": "1.0.0"
+}
